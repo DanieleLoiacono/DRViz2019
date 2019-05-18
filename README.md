@@ -12,7 +12,15 @@ In this repository you can find the materials (slides, examples, data) used for 
 
 
 ## Hands-on
-Available soon
+* [Introduction to Pandas](nb/HO_Pandas.ipynb)
+* [Introduction to Matplotlib](nb/HO_Matplotlib.ipynb)
+* [Introduction to Seaborn](nb/HO_Seaborn.ipynb)
+* [Visualizing tables: Iris dataset](nb/HO_Tables_Iris.ipynb)
+* [Visualizing tables: Titanic dataset](nb/HO_Tables_Titanic.ipynb)
+* [Visualizing spatial data: examples](nb/HO_Spatial.ipynb)
+* [Visualizing networks: Les Miserable](nb/HO_Networks.ipynb)
+* [Examples of interactive visualisation with Bokeh](nb/HO_Interactive.ipynb)
+* [Dealing with complexity: Motor Trend Car Road Tests](nb/HO_Complexity.pynb)
 
 ## Datasets
 * [Iris](data/iris.csv)
